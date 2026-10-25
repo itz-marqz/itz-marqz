@@ -10,7 +10,6 @@ At an AI Meetups hackathon, I worked as a Commercial Analyst with team Oseledec'
 - [Business training website](https://github.com/itz-marqz/zharkov-business-site) — Laravel website and content management
 - [Psychology CV site and bot](https://github.com/itz-marqz/psychology_CV_project) — Psychology CV site with booking bot
 - [Chevron order endpoint](https://github.com/itz-marqz/chevron) — Patch orders sent to Telegram
-- [Lab01](https://github.com/itz-marqz/Lab01-) — Introductory Python lab exercises
 
 ## Stack
 
